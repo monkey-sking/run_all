@@ -1,7 +1,7 @@
 ## Note
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/commits/master)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/commits/master) [![License](https://img.shields.io/github/license/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/blob/master/LICENSE) [![Language](https://img.shields.io/github/languages/top/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/search?l=) [![CI](https://github.com/monkey-sking/run_all/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/monkey-sking/run_all/actions/workflows/ci.yml)
 <!-- badges:end -->
 
 1. clone or Fork before vercel 404 need to pull the latest code
