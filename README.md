@@ -1,5 +1,9 @@
 ## Note
 
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/commits/master)
+<!-- badges:end -->
+
 1. clone or Fork before vercel 404 need to pull the latest code
 2. python in README means python3 python
 3. use v2.0 need change vercel setting from gatsby to vite
@@ -9,9 +13,6 @@
      python run_page/get_garmin_secret.py ${email} ${password}
      # if cn
 
-<!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/run_all?style=flat-square)](https://github.com/monkey-sking/run_all/commits/master)
-<!-- badges:end -->
      python run_page/get_garmin_secret.py ${email} ${password} --is-cn
    ```
 
